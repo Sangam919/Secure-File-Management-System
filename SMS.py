@@ -8,6 +8,7 @@ from streamlit_lottie import st_lottie
 import requests
 import pandas as pd
 
+
 # Function to load Lottie animations with error handling
 def load_lottie_url(url):
     try:
